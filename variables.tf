@@ -3,3 +3,4 @@ variable "state_bucket" {
   default     = "devops-state-bucket-tf"
   description = "Bucket com o estado do terraform"
 }
+
